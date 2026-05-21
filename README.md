@@ -293,7 +293,7 @@ A fully custom GPT-style Transformer with no external AI libraries:
 
 | Phase | Weeks | Focus |
 |---|---|---|
-| **Phase 1** | W1 | Pre-coding & Setup — schema design, repo, Figma mockups |
+| **Phase 1** | W1 | Pre-coding & Setup — schema design, repo |
 | **Phase 2** | W2–3 | Backend auth — JWT roles, login/logout, email SMTP |
 | **Phase 3** | W4–5 | Submissions CRUD, 2-step verification, employee management |
 | **Phase 4** | W6–7 | AI chatbot decision, backend + Socket.io, frontend integration |

@@ -183,7 +183,7 @@ educational-crm/
 ### Prerequisites
 - Node.js v18+
 - MongoDB (local or Atlas)
-- A Brevo or Gmail SMTP account for email
+- A Brevo or Gmail SMTP(Simple Mail Transfer Protocol) account for email
 
 ### 1. Clone the repository
 ```bash

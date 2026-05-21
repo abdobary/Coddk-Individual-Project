@@ -319,4 +319,3 @@ Branch strategy: `main` → `develop` → `feature/*`
 
 ---
 
-<p align="center">Built with ❤️ as a full-stack academic project · Submitted May 2026</p>

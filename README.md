@@ -268,7 +268,7 @@ Employee
 
 ---
 
-## 🤖 AI Chatbot
+## 🤖 AI Chatbot (Pending Idea)
 
 The platform includes a real-time AI chatbot that streams responses to the frontend via **Socket.io**. Two implementation options are under evaluation:
 

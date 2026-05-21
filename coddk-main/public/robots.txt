@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coddk.com/sitemap.xml
